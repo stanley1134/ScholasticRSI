@@ -1,0 +1,1 @@
+web: python renko_scanner.py
